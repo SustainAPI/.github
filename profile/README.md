@@ -4,7 +4,7 @@ SustainAPI aims to reduce the obstacles for developers building with a climate-c
 
 ### Why
 - Climate change is an urgent problem
-- It’s hard: taking climate action is arduous. It takes time to source high quality climate projects and integrate them into operation.
+- It’s hard: taking climate action is arduous. It takes time to source high quality climate projects and integrate them into operation. Likewise, climate tech sources lack the software infrastructure for digital transactions
 - Growing solutions: lots of new startups building around climate-friendly products/services
 - Regulations: governments are in talk to mandate corporate emission reporting. This enables corporations to identify and take climate actions on weak points
 - Growing solutions: growing number of new startups building around climate-friendly products & services
