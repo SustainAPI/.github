@@ -1,6 +1,9 @@
 ## SustainAPI
-
+**Developer**
 SustainAPI aims to reduce the obstacles for developers building with a climate-centered mindset. We offer a collection of software services (through API) to help projects meet their net-zero carbon objectives. Our APIs enable micro-transactions to offset carbon and estimate emissions, which can be smoothly incorporated into your products and services.
+
+**Climate Service Reducers**
+SustainAPI provides the digital infrastructure for climate tech companies to offer their solutions via an API. We enable reducers to integrate and manage their tech through a dashboard that can be shared across the team. Our goal is to expand our network of climate services to facilitate desparately needed climate actions.
 
 ### Why
 - Climate change is an urgent problem
